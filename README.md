@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ZeroXiphYT
 
 My Youtube Channel is ZeroXiph
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroXiphYT)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroXiphYT&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
